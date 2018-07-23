@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110686087727",
+    "firebase_url": "https://logindemo-dcc72.firebaseio.com",
+    "project_id": "logindemo-dcc72",
+    "storage_bucket": "logindemo-dcc72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110686087727:android:2feb233a5ea57133",
+        "android_client_info": {
+          "package_name": "singh.andtechno.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110686087727-n8otnr0lq7c75q2n2908ke46fnh8aud6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbX0ViH1kEHLjDoclWh4bWndYLOwG-Lz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
